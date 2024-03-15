@@ -9,7 +9,7 @@ echo Voce e homem ou mulher
 echo homem, mulher
 set /p sexo=@
 
-if "%sexo%"=="homem" call mulher.cmd
-if "%sexo%"=="mulher" call homem.cmd 
+if "%sexo%"=="homem" call sex\mulher.cmd
+if "%sexo%"=="mulher" call sex\homem.cmd 
 
 pause
