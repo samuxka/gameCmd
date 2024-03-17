@@ -119,7 +119,7 @@ if "%naoGosta%"=="sim" goto :sorvete
 if "%naoGosta%"=="nao" goto :001
 
 :pegou
-echo Parabens voce pegou uma mulher!!!
+echo Parabens voce pegou um Homem!!!
 echo.
 echo Quer tentar de novo?
 echo sim / nao
